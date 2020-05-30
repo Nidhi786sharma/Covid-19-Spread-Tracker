@@ -7,5 +7,5 @@ This code helps you all in finding the spread of COVID-19 through a graph. This 
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
- If you don't have git on your machine,  ## install it.
+ If you don't have git on your machine,  install it.
 
