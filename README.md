@@ -1,4 +1,6 @@
 # Covid-19-Spread-Tracker✔
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/Nidhi786sharma/Covid-19-Spread-Tracker)](https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker/issues)[![GitHub fork](https://img.shields.io/github/forks/Nidhi786sharma/Covid-19-Spread-Tracker?style=social)](https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker/network) [![GitHub stars](https://img.shields.io/github/stars/Nidhi786sharma/Covid-19-Spread-Tracker?style=social)](https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 A very warm welcome to all those who are here!✨ This Repository is made to ease the work of those coders who are working on tracking the COVID-19 spread.
 This code helps you all in finding the spread of COVID-19 through a graph. This graph shows the Total no. of Covid-19 Patients, including No. of deaths, No. of recovered of each state and each country.
@@ -65,9 +67,9 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard icon.*
 
 Open a terminal and run the following git command:
-
-       git clone "url you just copied"
-
+'''
+      git clone "url you just copied"
+'''
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 For example:
