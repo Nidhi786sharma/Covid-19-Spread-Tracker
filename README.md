@@ -5,19 +5,19 @@ This code helps you all in finding the spread of COVID-19 through a graph. This 
 
 
 You can also get the code from below.
-# Code
+## Cde
     import pycountry
     import plotly.express as px
     import pandas as pd
 
-# ----------- Step 1 ------------
+## ----------- Step 1 ------------
 
     URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 
       df1 = pd.read_csv(URL_DATASET)
       # print(df1.head) # Uncomment to see what the dataframe is like
 
-# ----------- Step 2 ------------
+## ---------- Step 2 ------------
 
     list_countries = df1['Country'].unique().tolist()
 
@@ -46,7 +46,7 @@ You can also get the code from below.
     df1.loc[(df1.Country == k), 'iso_alpha'] = v    
     #print(df1.head)  # Uncomment to confirm that ISO codes added
 
-# ----------- Step 3 ------------
+## ---------- Step 3 ------------
     fig = px.choropleth(data_frame = df1,
                     locations= "iso_alpha",
                     color= "Confirmed",  # value in column 'Confirmed' determines color
@@ -56,13 +56,13 @@ You can also get the code from below.
 
      fig.show()
      
-# Fork this repository💖
+## Fork this repository💖
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
-# Clone the repository
+## Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the copy to clipboard icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard icon.*
 
 Open a terminal and run the following git command:
 
@@ -78,5 +78,5 @@ where Your_Username is your GitHub username. Here you're copying the contents of
 
 
 
-
+*Created and Maintained with 💖, by NIDHI*
 
