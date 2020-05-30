@@ -5,7 +5,7 @@ This code helps you all in finding the spread of COVID-19 through a graph. This 
 
 
 You can also get the code from below.
-## Cde
+## Code
     import pycountry
     import plotly.express as px
     import pandas as pd
