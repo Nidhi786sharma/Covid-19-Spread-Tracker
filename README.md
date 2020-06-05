@@ -79,7 +79,7 @@ For example:
 where Your_Username is your GitHub username. Here you're copying the contents of the Covid-19-Spread-Tracker repository on GitHub to your computer.
 
 
-You can view the full code with graph https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker
+You can view the full code with graph [Nidhi](https://github.com/Nidhi786sharma/Covid-19-Spread-Tracker)
 
 
 
